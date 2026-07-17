@@ -46,29 +46,30 @@ class DefaultFirebaseOptions {
     }
   }
 
+    //For security purposes, I will not disclose my api keys in this portion of the program.
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBDf0p1o3_EoBnSE63CwxNjnBZl1Mhb0pg',
-    appId: '1:36315976924:web:51e91124acfd06b7485019',
-    messagingSenderId: '36315976924',
-    projectId: 'flutter-voyagepro',
-    authDomain: 'flutter-voyagepro.firebaseapp.com',
-    storageBucket: 'flutter-voyagepro.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCpIdUWOsbSMqn4mM6lO4bfPCqPs_2N3Xs',
-    appId: '1:36315976924:android:d967aed9503c6592485019',
-    messagingSenderId: '36315976924',
-    projectId: 'flutter-voyagepro',
-    storageBucket: 'flutter-voyagepro.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBDf0p1o3_EoBnSE63CwxNjnBZl1Mhb0pg',
-    appId: '1:36315976924:web:a220daaf1ce05435485019',
-    messagingSenderId: '36315976924',
-    projectId: 'flutter-voyagepro',
-    authDomain: 'flutter-voyagepro.firebaseapp.com',
-    storageBucket: 'flutter-voyagepro.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
