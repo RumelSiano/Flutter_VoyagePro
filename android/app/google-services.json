@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36315976924",
+    "project_id": "flutter-voyagepro",
+    "storage_bucket": "flutter-voyagepro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36315976924:android:d967aed9503c6592485019",
+        "android_client_info": {
+          "package_name": "com.example.voyagepro_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36315976924-8381hvkb1rio3nl8ri23507nk872iv6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voyagepro_mobile",
+            "certificate_hash": "c6996ea32c78cb4c7aa85c07d027caca23ff93a2"
+          }
+        },
+        {
+          "client_id": "36315976924-q710e73835rg8smsaudhd9avt284l70g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIdUWOsbSMqn4mM6lO4bfPCqPs_2N3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36315976924-q710e73835rg8smsaudhd9avt284l70g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
